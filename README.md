@@ -1,2 +1,2 @@
 # Laud-Page-main
-laud-page-main.vercel.app
+https://laud-page-main.vercel.app
